@@ -1,0 +1,28 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+select {
+  display: block;
+  width: 200px;
+  margin-top: 25px;
+}
+
+section {
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+.center {
+  align-self: center;
+}
